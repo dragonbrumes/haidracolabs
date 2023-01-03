@@ -167,7 +167,7 @@ export default function PrivacyApp() {
             to protect the information, which considerably reduce the risks of
             data misuse, we cannot guarantee that our systems will be absolutely
             safe. To notify the Company about any security vulnerability or
-            potential data breach, please contact us at: citybeetles@gmail.com,
+            potential data breach, please contact us at: contact@haidraco-labs.com,
             and we will take the appropriate measures to address such incident,
             as deemed necessary.
           </p>
